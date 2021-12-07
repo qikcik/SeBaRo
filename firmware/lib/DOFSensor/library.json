@@ -1,0 +1,8 @@
+{
+    "name": "6DOFSensor",
+    "version": "1.0.0",
+    "dependencies":
+    {
+        "adafruit/Adafruit BusIO MPU6050":"*"
+    }
+}

@@ -1,3 +1,6 @@
+// Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+// License: MIT
+
 #pragma once
 #include <Adafruit_MPU6050.h>
 

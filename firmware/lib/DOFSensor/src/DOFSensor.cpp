@@ -1,3 +1,6 @@
+// Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+// License: MIT
+
 #include "DOFSensor.h"
 
 using namespace driver;

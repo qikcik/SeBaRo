@@ -1,3 +1,6 @@
+// Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+// License: MIT
+
 #include <Arduino.h>
 #include <hal.hpp>
 #include "utils/pid.hpp"

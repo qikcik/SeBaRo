@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+# Modified ImGUI example extended by:
+# Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+# License: MIT
+
 from __future__ import absolute_import
 
 import pyglet

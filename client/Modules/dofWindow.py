@@ -1,5 +1,7 @@
-from array import array
+# Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+# License: MIT
 
+from array import array
 import imgui
 
 

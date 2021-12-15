@@ -1,3 +1,6 @@
+# Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+# License: MIT
+
 import imgui
 import Modules.dofWindow as Dof
 import Modules.motorWindow as Motor

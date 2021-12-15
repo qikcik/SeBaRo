@@ -1,3 +1,5 @@
+// simple modified code from https://www.teachmemicro.com/arduino-pid-control-tutorial/ 
+
 #pragma once
 
 class Pid

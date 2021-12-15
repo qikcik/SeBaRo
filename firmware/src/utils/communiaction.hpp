@@ -1,3 +1,6 @@
+// Author: Qikcik (Dominik Rudnik - dominikrudnik01@gmail.com)
+// License: MIT
+
 #pragma once
 #include <CommandParser.h>
 #include <Arduino.h>
